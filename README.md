@@ -25,11 +25,7 @@ A voice-enabled personal assistant for your computer — powered by DeepSeek, gT
 
 ---
 
-## 📦 Installation
+## 🙋‍♂️ Author
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/jarvis-desktop-assistant.git
-cd jarvis-desktop-assistant
-
+**Patel Priyanshi**  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/priyanshi-04in) | [GitHub](https://github.com/patelpriyanshi483)
