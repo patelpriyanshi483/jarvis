@@ -1,0 +1,9 @@
+requests
+duckduckgo-search==6.1.7
+pyttsx3
+SpeechRecognition
+pyaudio
+pyautogui
+langdetect
+python-dotenv
+pyperclip
