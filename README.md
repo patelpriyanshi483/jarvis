@@ -32,3 +32,11 @@ A voice-enabled personal assistant for your computer — powered by DeepSeek, gT
 ```bash
 git clone https://github.com/your-username/jarvis-desktop-assistant.git
 cd jarvis-desktop-assistant
+<h2>📃 License</h2>
+  <p>This project is licensed under the MIT License.<br>Feel free to use, fork, and improve!</p>
+
+ <h2>🙋‍♀️ Credits</h2>
+  <p>
+    Developed by <a href="https://github.com/patelpriyanshi483" target="_blank">Patel Priyanshi</a><br>
+    Powered by: DeepSeek, Google Text-to-Speech, DuckDuckGo, and Python 🐍
+  </p>
