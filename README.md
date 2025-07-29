@@ -25,6 +25,10 @@ A voice-enabled personal assistant for your computer — powered by DeepSeek, gT
 
 ---
 
+## 📃 License
+
+This project is open-source and available under the **MIT License**.
+
 ## 🙋‍♂️ Author
 
 **Patel Priyanshi**  
